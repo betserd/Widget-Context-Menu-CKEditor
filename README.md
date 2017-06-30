@@ -8,6 +8,7 @@ By default no configuration is required. To disable commands use any of the foll
 config.widgetcontextmenu_edit = false;
 config.widgetcontextmenu_copy = false;
 config.widgetcontextmenu_remove = false;
+
 Dependencies:
 
 Context Menu Plugin (http://ckeditor.com/addon/contextmenu)
